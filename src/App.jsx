@@ -4,7 +4,7 @@ import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import "./App.css";
+import "./css/Branch-1.css";
 
 const App = () => {
     const [counter, setCounter] = useState(0);
